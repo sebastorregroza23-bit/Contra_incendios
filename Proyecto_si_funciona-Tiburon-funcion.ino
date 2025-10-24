@@ -8,11 +8,11 @@
 #include <ArduinoJson.h>
 
 // Internet
-const char* WIFI_SSID = "iPhone de Torregroza";
-const char* WIFI_PASS = "sarita2021";
+const char* WIFI_SSID = "nombre de la red";
+const char* WIFI_PASS = "contraseña de tu red";
 
-const String BOT_TOKEN = "7343983916:AAF0gE4ZQDXqyR4eFmALpQFtSblspY3Z3zA";
-const String CHAT_ID   = "1509817812"; // tu chat_id personal
+const String BOT_TOKEN = "tu id token de telegram";
+const String CHAT_ID   = "tu chad id telegram"; // tu chat_id personal
 
 // pines
 #define MQ2_PIN        34   // Entrada analógica del sensor MQ-02
